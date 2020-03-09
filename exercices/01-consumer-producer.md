@@ -59,6 +59,10 @@ Vous pouvez partir d'un template selon votre langage de prédilection:
 ## Documentation
 
   * Kafka Client Java API: https://docs.confluent.io/current/clients/java.html#java-client
+  * Consumer Configuration Reference: https://docs.confluent.io/current/installation/configuration/consumer-configs.html
+  * Producer Configuration Reference: https://docs.confluent.io/current/installation/configuration/producer-configs.html
+  
+
 
 ## Questions
 
