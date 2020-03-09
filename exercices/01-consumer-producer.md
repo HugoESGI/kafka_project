@@ -41,9 +41,9 @@ Pour l'usage de ce TP, vous vous connectez au broker Kafka suivant : `127.0.0.1:
 
 Dans le cas où votre machine ne vous permet pas d'utiliser Docker localement, voici un broker à utiliser
 
-  * IP: 212.47.229.218:9092
-    * Dashboard: 212.47.229.218:9021
-    * Broker: 212.47.229.218:9092
+  * IP: `212.47.229.218:9092`
+    * Dashboard: `212.47.229.218:9021`
+    * Broker: `212.47.229.218:9092`
 
 ### Template Code
 
@@ -62,7 +62,6 @@ Vous pouvez partir d'un template selon votre langage de prédilection:
   * Consumer Configuration Reference: https://docs.confluent.io/current/installation/configuration/consumer-configs.html
   * Producer Configuration Reference: https://docs.confluent.io/current/installation/configuration/producer-configs.html
   
-
 
 ## Questions
 
