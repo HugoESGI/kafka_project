@@ -73,5 +73,7 @@ compliquera votre tâche. Pensez à repartitionner les messages vers un topic in
 
 Rendre disponible à l'instant T chacune de vos KTables sur une API REST (sous forme JSON).
 
-Tips: 
+Documentations : 
   * https://docs.confluent.io/current/streams/developer-guide/interactive-queries.html#streams-developer-guide-interactive-queries
+  * Akka HTTP (REST API): https://doc.akka.io/docs/akka-http/current/routing-dsl/index.html
+  * Play JSON: https://www.playframework.com/documentation/2.8.x/ScalaJson
