@@ -1,0 +1,22 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="SPACE_INSIDE_SELF_TYPE_BRACES" value="false" />
+      <option name="SPACE_BEFORE_INFIX_OPERATOR_LIKE_METHOD_CALL_PARENTHESES" value="false" />
+      <option name="SPACE_BEFORE_TYPE_COLON" value="true" />
+      <option name="KEEP_COMMENTS_ON_SAME_LINE" value="false" />
+      <option name="SPACE_BEFORE_TYPE_PARAMETER_LEADING_CONTEXT_BOUND_COLON" value="true" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="SPACE_BEFORE_SEMICOLON" value="true" />
+      <option name="SPACE_AFTER_TYPE_CAST" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="Scala">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="4" />
+        <option name="CONTINUATION_INDENT_SIZE" value="8" />
+        <option name="TAB_SIZE" value="4" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

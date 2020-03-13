@@ -153,9 +153,11 @@ services:
       KAFKA_REST_SCHEMA_REGISTRY_URL: "http://schema-registry:8081"
 
   injector:
-    image: nekonyuu/tp-kafka-ev-producer:1.0.2
+    image: nekonyuu/tp-kafka-movies-views:1.1
     depends_on:
       - broker
     hostname: injector
+    environment:
+      BROKER_HOST: broker:29092
     container_name: injector
 
